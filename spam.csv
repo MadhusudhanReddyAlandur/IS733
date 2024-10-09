@@ -1,0 +1,16 @@
+﻿win,click,team,claim,reminder,category
+1,1,0,0,0,Spam
+0,1,1,0,0,Ham
+0,0,0,1,0,Spam
+0,0,1,0,1,Ham
+1,0,0,0,0,Spam
+0,0,0,0,1,Ham
+1,0,1,0,0,Spam
+0,1,1,0,0,Ham
+0,0,0,1,0,Spam
+0,1,1,0,0,Ham
+0,0,1,0,0,Ham
+1,0,0,0,0,Spam
+0,1,0,0,0,Ham
+0,0,0,1,0,Spam
+0,0,1,0,1,Ham
